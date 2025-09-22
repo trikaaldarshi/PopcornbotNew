@@ -227,7 +227,17 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamxbotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/dreamxbotz">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+9Ha-QcujVtY2ZDQ9">Premium Direct Movies Channel</a></b>
+
+🧭 <b>FILE :</b> @iPapcornbotz <a href="https://t.me/iPapcornbotz">{file_name}</a>  
+═══════════════════════  
+<b>⊱ ────── ⋅ʚ♡ɞ⋅ ────── ⊰</b>  
+➟ 🫧 <b>𝗝𝗼𝗶𝗻 𝗕𝗮𝗰𝗸𝘂𝗽🎟</b> @iPapcornbotz  
+➟ 🔉 <b>News📰</b> : @ipopcornbotNews 🌸 
+➥ 🌱   
+═══════════════════════
+<b>https://t.me/PopkornCinemas</b>
+"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
