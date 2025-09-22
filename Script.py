@@ -444,7 +444,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 अगर आप सीधे फ़ाइलें चाहते हैं तो आप प्रीमियम सर्विस ले सकते हैं (प्रीमियम लेने पर वेरिफ़ाई करने की ज़रूरत नहीं होगी)। ✅</i></b>"""
     
 
-    VERIFY_COMPLETE_TEXT = """<b><i>👋 ʜᴇʏ {},
+VERIFY_COMPLETE_TEXT = """<b><i>👋 ʜᴇʏ {},
 
 ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ 1ꜱᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ✓
 
